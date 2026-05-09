@@ -5,7 +5,7 @@ I’ve always been driven by a love for computers, coding, and technology. I’m
 
 I am always looking to improve my skills, stay curious about new architectural patterns, and learn from others in the developer community. Whether it's optimizing a backend service or exploring a new framework, I'm driven by the process of building and learning.
 
-When I’m not building with **Python**, **React**, or **C++**, I’m usually at the gym or exploring the world of **Terraria**.
+When I’m not building with **Python**, **React**, or **C++**, I’m usually at the gym or exploring new games.
 
 ---
 
@@ -28,7 +28,7 @@ When I’m not building with **Python**, **React**, or **C++**, I’m usually at
 * **ripgrep (rg)** for searching codebases.
 
 ### **🎮 Currently Playing & Doing**
-* 🌳 **Terraria** on Steam.
+* 🎮 Exploring different games on Steam.
 * 💪 Training a **PPLUL** (Push, Pull, Legs, Upper, Lower) split.
 
 ### **🐍 Contribution Snake**
